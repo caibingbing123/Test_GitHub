@@ -29,5 +29,13 @@
 
 ![add_sucess](./插图/add_sucess.png)
 
-3、文件更改更新上传：
+3、文件更改更新上传
+
+直接之前命令加上 - A 将所有新增或改动文件上传，之后再git push上去。
+
+![updata](./插图/updata.png)
+
+更新成功
+
+![updata_sucess](./插图/updata_sucess.png)
 
